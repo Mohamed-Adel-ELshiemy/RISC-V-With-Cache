@@ -1,0 +1,340 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1
+vALU
+!i10b 1
+!s100 J7:m5QZZOAkWb6g6c@VdZ2
+IKVN77a0nMgI4;g7l<94kQ3
+Z1 VNQOhDK9[C@ihliIJA4_mD1
+Z2 dD:\ITI internship\Risc_Cache
+Z3 w1692213590
+8D:/ITI internship/Risc_Cache/ALU.v
+FD:/ITI internship/Risc_Cache/ALU.v
+L0 1
+Z4 OV;L;10.1d;51
+r1
+!s85 0
+31
+Z5 !s108 1694416990.528000
+Z6 !s107 D:/ITI internship/Risc_Cache/test_cache.v|D:/ITI internship/Risc_Cache/Risc_tb.v|D:/ITI internship/Risc_Cache/Risc.v|D:/ITI internship/Risc_Cache/Register_file.v|D:/ITI internship/Risc_Cache/Program_counter.v|D:/ITI internship/Risc_Cache/PC_NEXT.v|D:/ITI internship/Risc_Cache/new_cache.v|D:/ITI internship/Risc_Cache/Mux.v|D:/ITI internship/Risc_Cache/mm.v|D:/ITI internship/Risc_Cache/integration.v|D:/ITI internship/Risc_Cache/Instr_mem.v|D:/ITI internship/Risc_Cache/Extend.v|D:/ITI internship/Risc_Cache/Data_Mem.v|D:/ITI internship/Risc_Cache/controll.v|D:/ITI internship/Risc_Cache/Control_Unit.v|D:/ITI internship/Risc_Cache/ALU_Decoder.v|D:/ITI internship/Risc_Cache/ALU.v|
+Z7 !s90 -reportprogress|300|-work|work|D:/ITI internship/Risc_Cache/ALU.v|D:/ITI internship/Risc_Cache/ALU_Decoder.v|D:/ITI internship/Risc_Cache/Control_Unit.v|D:/ITI internship/Risc_Cache/controll.v|D:/ITI internship/Risc_Cache/Data_Mem.v|D:/ITI internship/Risc_Cache/Extend.v|D:/ITI internship/Risc_Cache/Instr_mem.v|D:/ITI internship/Risc_Cache/integration.v|D:/ITI internship/Risc_Cache/mm.v|D:/ITI internship/Risc_Cache/Mux.v|D:/ITI internship/Risc_Cache/new_cache.v|D:/ITI internship/Risc_Cache/PC_NEXT.v|D:/ITI internship/Risc_Cache/Program_counter.v|D:/ITI internship/Risc_Cache/Register_file.v|D:/ITI internship/Risc_Cache/Risc.v|D:/ITI internship/Risc_Cache/Risc_tb.v|D:/ITI internship/Risc_Cache/test_cache.v|
+!s101 -O0
+Z8 o-work work -O0
+Z9 n@a@l@u
+vALU_Decoder
+!i10b 1
+!s100 YNlCnI;LZf4:SD_2iGO<71
+I1^44?n3?e]=oL02b_Jo[j3
+Z10 VRQ6S`3a>3]Qc_@5FUNm=<2
+R2
+Z11 w1692213591
+8D:/ITI internship/Risc_Cache/ALU_Decoder.v
+FD:/ITI internship/Risc_Cache/ALU_Decoder.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!s101 -O0
+R8
+Z12 n@a@l@u_@decoder
+vcache_controller
+!i10b 1
+!s100 h^6XFKimd]RlLoUA3_5ka0
+IHo1jT?`T0fbE7k875c1><2
+Z13 VUWIdj9@<?09>=E^a7`BX40
+R2
+Z14 w1694284119
+8D:/ITI internship/Risc_Cache/controll.v
+FD:/ITI internship/Risc_Cache/controll.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!s101 -O0
+R8
+vcache_top_tb
+!i10b 1
+!s100 ^]A^5>eF?ncGB9F8UBJoW3
+IKB258ibokbOU7iI`GPN2M0
+VSSgFEC5joehD^ToL;i99b0
+R2
+w1694283296
+8D:/ITI internship/Risc_Cache/test_cache.v
+FD:/ITI internship/Risc_Cache/test_cache.v
+L0 2
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!s101 -O0
+R8
+vcash_array
+!i10b 1
+!s100 ?70zeo];NeNU?7ocmW@IE2
+IZblXMi9`7`3GTInOHeDfF1
+Z15 Vh]4:Y_PI0VIIMIf4zn^kd2
+R2
+Z16 w1694254750
+8D:/ITI internship/Risc_Cache/new_cache.v
+FD:/ITI internship/Risc_Cache/new_cache.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!s101 -O0
+R8
+vControl_Unit
+!i10b 1
+!s100 iUDH8P<;S69G>iG84zJWl3
+I7ILX=Lc6k`z59i^?CR5H01
+Z17 V>QX>ND2B[em4l09KG<1_M3
+R2
+Z18 w1694289021
+8D:/ITI internship/Risc_Cache/Control_Unit.v
+FD:/ITI internship/Risc_Cache/Control_Unit.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!s101 -O0
+R8
+Z19 n@control_@unit
+vData_Mem
+!i10b 1
+!s100 A^Y]W[_G`DVkOL>7ANf2W1
+I4T5mTCJZf9B8H1dPV^[D?0
+Z20 V:D?claL<naTKBA9Xo1a>_3
+R2
+Z21 w1692213596
+8D:/ITI internship/Risc_Cache/Data_Mem.v
+FD:/ITI internship/Risc_Cache/Data_Mem.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!s101 -O0
+R8
+Z22 n@data_@mem
+vdata_memory
+!i10b 1
+!s100 `^HVb88_beA5665;QAJbz0
+I3`l4c;hfVzZGo<C[zVbZ93
+Z23 Vh2aXEn3>?g46jQN?R2bLn3
+R2
+Z24 w1694261862
+8D:/ITI internship/Risc_Cache/mm.v
+FD:/ITI internship/Risc_Cache/mm.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!s101 -O0
+R8
+vExtend
+!i10b 1
+!s100 YjL>SO6gcMYe5?zAidCgB0
+IeR3b_H05Va<69mEUD<0ID2
+Z25 VOoVSz;KYDd>_eh6CkH;@A0
+R2
+Z26 w1692213595
+8D:/ITI internship/Risc_Cache/Extend.v
+FD:/ITI internship/Risc_Cache/Extend.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!s101 -O0
+R8
+Z27 n@extend
+vInst_Mem
+!i10b 1
+!s100 0T^[T;n2@UY5f_Q1T<Q2e3
+IZZQAObd85RDTEj1AP_;cD3
+Z28 Vi5YLP@TGAG4ACW0=j`R2l1
+R2
+Z29 w1694289280
+8D:/ITI internship/Risc_Cache/Instr_mem.v
+FD:/ITI internship/Risc_Cache/Instr_mem.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!s101 -O0
+R8
+Z30 n@inst_@mem
+vintegration
+!i10b 1
+!s100 RbY=RloNS[;Ag_adOV^]o0
+I;fT9[==2;B9kEPRjncZz[2
+Z31 V6VXD?Hg9eJP0N46Ih00?<2
+R2
+Z32 w1694283142
+8D:/ITI internship/Risc_Cache/integration.v
+FD:/ITI internship/Risc_Cache/integration.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!s101 -O0
+R8
+vMux
+!i10b 1
+!s100 Uh7kmXW?]7BzL25M8klZ50
+I<>A@aFNQ:e3MB@BZja?830
+Z33 VQZcb7IVYh;`UKLZ8gAVhQ0
+R2
+Z34 w1692213597
+8D:/ITI internship/Risc_Cache/Mux.v
+FD:/ITI internship/Risc_Cache/Mux.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!s101 -O0
+R8
+n@mux
+vPC
+!i10b 1
+!s100 ?i9PGI`OOlQP<`_0JM0jn2
+IO0T]4GgzX?9Y5Am]50DDl1
+Z35 VJG7oj=f^en_m;=BhHoCJ72
+R2
+Z36 w1694284950
+8D:/ITI internship/Risc_Cache/Program_counter.v
+FD:/ITI internship/Risc_Cache/Program_counter.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!s101 -O0
+R8
+n@p@c
+vPC_Calc
+!i10b 1
+!s100 iC5Q8N:Z@j:3dWB[hL4081
+ITYziLTKmK8iNe;[?5<BQ42
+Z37 VAgUV4Ombf?b_Fccd6>Xfe1
+R2
+Z38 w1692213593
+8D:/ITI internship/Risc_Cache/PC_NEXT.v
+FD:/ITI internship/Risc_Cache/PC_NEXT.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!s101 -O0
+R8
+Z39 n@p@c_@calc
+vRegister_File
+!i10b 1
+!s100 :cNkbd0Z[3n0KcV@LE76F2
+I@8?Ehk3eCg]<HPCf@[CXZ3
+Z40 VRP`BPf<TQ`^L^U7GG1J:G1
+R2
+Z41 w1692213594
+8D:/ITI internship/Risc_Cache/Register_file.v
+FD:/ITI internship/Risc_Cache/Register_file.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!s101 -O0
+R8
+Z42 n@register_@file
+vRISCV
+!i10b 1
+!s100 RT=fF=Zzkhz^`;=Cjo^@;1
+I4lEV@I<eO=4XoLlUC@GTe0
+Z43 VK:>]d4R6Z]iQ`k]liiB2J1
+R2
+Z44 w1694289596
+8D:/ITI internship/Risc_Cache/Risc.v
+FD:/ITI internship/Risc_Cache/Risc.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!s101 -O0
+R8
+Z45 n@r@i@s@c@v
+vTop_Module_tb
+!i10b 1
+!s100 Rz4n6>imdFD`[jQg;M6X51
+If>3P07mjif[O@9D3@Zz@W1
+Z46 VH9b;:JTk^;i6f`S6kM5[T2
+R2
+Z47 w1694286829
+8D:/ITI internship/Risc_Cache/Risc_tb.v
+FD:/ITI internship/Risc_Cache/Risc_tb.v
+L0 3
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!s101 -O0
+R8
+Z48 n@top_@module_tb

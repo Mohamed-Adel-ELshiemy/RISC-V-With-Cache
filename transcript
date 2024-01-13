@@ -1,0 +1,25 @@
+# vsim Top_Module_tb 
+# Loading work.Top_Module_tb
+# Loading work.RISCV
+# Loading work.PC_Calc
+# Loading work.PC
+# Loading work.Inst_Mem
+# Loading work.Register_File
+# Loading work.Extend
+# Loading work.Mux
+# Loading work.ALU
+# Loading work.integration
+# Loading work.cache_controller
+# Loading work.cash_array
+# Loading work.data_memory
+# Loading work.Control_Unit
+# Loading work.ALU_Decoder
+view -new wave
+# -new not supported on PE
+add wave -position insertpoint sim:/Top_Module_tb/*
+view -new wave
+# -new not supported on PE
+add wave -position insertpoint  \
+sim:/Top_Module_tb/T0/top/Dmm/memory_array
+run 9000 ns
+# GCD is          x
